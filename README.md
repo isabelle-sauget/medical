@@ -1,0 +1,2 @@
+# medical
+Proiect practica Metaminds
